@@ -16,7 +16,7 @@
 }
 .bicicletas-lista li {
   flex: 1;
-  min-width: 450px;
+  min-width: 320px;
 }
 .bicicletas-lista a {
   display: block;
